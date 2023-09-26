@@ -9,6 +9,7 @@ this project have goals test the integration with Google Calendar
 ### Resource used
 * maven
 * lombok
+* java 17
 ### Dependences
  Verify file pom.xml, this file have all dependences used in project
 ### TODO
